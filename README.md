@@ -1,1 +1,2 @@
-# text-animation
+ https://abdulazizsamandarov.github.io/text-animation/
+ 
